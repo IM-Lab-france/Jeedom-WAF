@@ -7,9 +7,20 @@
 ![Afficheur](https://quand-il.fr/16358389415457983550308449060332.jpg)
 
  # Objectif
- Création d'un boitier de controle pour piloter Jeedom avec création automatique des boutons via fichier JSON 
- Fonctionne en Wifi
- Ceci d'ajouter un interrupteur de controle type WAF
+ Création d'un boitier de controle pour piloter Jeedom avec création automatique des boutons via fichier JSON.
+ Fonctionne en Wifi.
+ Ceci d'ajouter un interrupteur de controle type WAF.
+
+## Paramètres
+
+### Jeedom
++ Clé API Jeedom -> key=xxxxxxxxxxxxxxxxxxxxxxxx
++ IP Jeedom      -> ip=xxx.xxx.xxx.xxx
++ Port Jeedom    -> port=xx
+
+### Wifi
++ SSID Wifi      -> ssid=xxxxxxxxxxxxxxxxxxxxxxx
++ Passphrase     -> pass=xxxxxxxxxxxxxxxxxxxxxxx
 
  ## Fichier JSON
  Accessible via une variable Jeedom (JSONPilote)
