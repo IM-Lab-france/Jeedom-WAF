@@ -1,4 +1,4 @@
-# Jeedom WAF
+# Jeedom Arduino WAF
 
 # Matériel
 - AZ touch MOD (https://www.az-delivery.de/fr/products/az-touch-wandgehauseset-mit-touchscreen-fur-esp8266-und-esp32)
