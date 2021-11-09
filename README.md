@@ -21,8 +21,10 @@
 | Port Jeedom | port=xx|
 
 ### Wifi
-+ SSID Wifi      -> ssid=xxxxxxxxxxxxxxxxxxxxxxx
-+ Passphrase     -> pass=xxxxxxxxxxxxxxxxxxxxxxx
+| Nom | Clé |
+| -------- |---------|
+| SSID Wifi | ssid=xxxxxxxxxxxxxxxxxxxxxxx|
+| Passphrase | pass=xxxxxxxxxxxxxxxxxxxxxxx|
 
  ## Fichier JSON
  Accessible via une variable Jeedom (JSONPilote)
