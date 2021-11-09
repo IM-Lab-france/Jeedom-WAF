@@ -14,9 +14,11 @@
 ## Paramètres
 
 ### Jeedom
-+ Clé API Jeedom -> key=xxxxxxxxxxxxxxxxxxxxxxxx
-+ IP Jeedom      -> ip=xxx.xxx.xxx.xxx
-+ Port Jeedom    -> port=xx
+| Nom | Clé |
+| -------- |---------|
+| Clé API Jeedom | key=xxxxxxxxxxxxxxxxxxxxxxxx |
+| IP Jeedom | ip=xxx.xxx.xxx.xxx|
+| Port Jeedom | port=xx|
 
 ### Wifi
 + SSID Wifi      -> ssid=xxxxxxxxxxxxxxxxxxxxxxx
