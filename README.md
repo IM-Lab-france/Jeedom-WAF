@@ -12,19 +12,13 @@
  Ceci d'ajouter un interrupteur de controle type WAF.
 
 ## Paramètres
-
-### Jeedom
-| Nom | Clé |
-| -------- |---------|
-| Clé API Jeedom | key=xxxxxxxxxxxxxxxxxxxxxxxx |
-| IP Jeedom | ip=xxx.xxx.xxx.xxx|
-| Port Jeedom | port=xx|
-
-### Wifi
-| Nom | Clé |
-| -------- |---------|
-| SSID Wifi | ssid=xxxxxxxxxxxxxxxxxxxxxxx|
-| Passphrase | pass=xxxxxxxxxxxxxxxxxxxxxxx|
+| Périmètre | Nom | Clé |
+| -------- | -------- |---------|
+| Jeedom | Clé API | key=xxxxxxxxxxxxxxxxxxxxxxxx |
+| Jeedom | IP | ip=xxx.xxx.xxx.xxx|
+| Jeedom | Port  | port=xx|
+| Wifi | SSID Wifi | ssid=xxxxxxxxxxxxxxxxxxxxxxx|
+| Wifi | Passphrase | pass=xxxxxxxxxxxxxxxxxxxxxxx|
 
  ## Fichier JSON
  Accessible via une variable Jeedom (JSONPilote)
