@@ -8,8 +8,10 @@
 
  # Objectif
  Création d'un boitier de controle pour piloter Jeedom avec création automatique des boutons via fichier JSON.
+ 
  Fonctionne en Wifi.
- Ceci d'ajouter un interrupteur de controle type WAF.
+ 
+ Ceci afin d'ajouter un interrupteur de controle type WAF.
 
 ## Paramètres
 | Périmètre | Nom | Clé |
