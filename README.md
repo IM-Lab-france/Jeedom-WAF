@@ -12,7 +12,9 @@
  Ceci d'ajouter un interrupteur de controle type WAF
 
  ## Fichier JSON
- Accessible via une variable Jeedom
+ Accessible via une variable Jeedom (JSONPilote)
+ 
+ https://**#jeedom#**/core/api/jeeApi.php?apikey=**#Jeedom Key#**&type=variable&name=**#JSONPilote#**
  
 ```json
  {
